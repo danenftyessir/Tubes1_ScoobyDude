@@ -60,11 +60,7 @@ public class ScoobyGodBot : Bot
 
     public override void OnHitBot(HitBotEvent e)
     {
-        if (e.IsRammed && Energy > 20) // jika bot ditabrak/menabrak dan energi masih cukup
-        {
-            Fire(3);
-            Forward(50);
-        }
+        if (e.IsRammed && Energy > 20) //jika bot ditabrak/menabrak dan energi masih cukup
         {
             Fire(3);
             Forward(50);
