@@ -1,0 +1,15 @@
+{
+    "name": "ScoobyShadowBot",
+    "version": "1.0",
+    "authors": [
+      "ScoobyDude"
+    ],
+    "description": "A bot that prioritizes evasive maneuvers and strategic sniping.",
+    "homepage": "",
+    "countryCodes": [
+      "id"
+    ],
+    "platform": ".Net 6.0",
+    "programmingLang": "C# 10.0"
+  }
+  
