@@ -926,19 +926,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
+    "C:\\Users\\Jovan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Documents\\tubes1-if2211-starter-pack-1.0\\tubes1-if2211-starter-pack-1.0\\sample-bots-csharp-0.30.0\\ScoobyShadowBot\\ScoobyShadowBot.csproj",
+      "projectUniqueName": "C:\\Users\\Jovan\\Documents\\Stima\\tubes1-if2211-starter-pack-1.0\\Tubes1_ScoobyDude\\src\\alternative-bots\\ScoobyShadowBot\\ScoobyShadowBot.csproj",
       "projectName": "ScoobyShadowBot",
-      "projectPath": "C:\\Users\\ASUS\\OneDrive\\Documents\\tubes1-if2211-starter-pack-1.0\\tubes1-if2211-starter-pack-1.0\\sample-bots-csharp-0.30.0\\ScoobyShadowBot\\ScoobyShadowBot.csproj",
-      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\OneDrive\\Documents\\tubes1-if2211-starter-pack-1.0\\tubes1-if2211-starter-pack-1.0\\sample-bots-csharp-0.30.0\\ScoobyShadowBot\\obj\\",
+      "projectPath": "C:\\Users\\Jovan\\Documents\\Stima\\tubes1-if2211-starter-pack-1.0\\Tubes1_ScoobyDude\\src\\alternative-bots\\ScoobyShadowBot\\ScoobyShadowBot.csproj",
+      "packagesPath": "C:\\Users\\Jovan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jovan\\Documents\\Stima\\tubes1-if2211-starter-pack-1.0\\Tubes1_ScoobyDude\\src\\alternative-bots\\ScoobyShadowBot\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Jovan\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -956,6 +956,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -982,12 +987,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.36, 6.0.36]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.36, 6.0.36]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.36, 6.0.36]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.36, 6.0.36]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.428\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406\\RuntimeIdentifierGraph.json"
       }
     }
   }

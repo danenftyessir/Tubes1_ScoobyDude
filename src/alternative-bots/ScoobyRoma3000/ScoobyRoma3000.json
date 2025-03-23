@@ -1,0 +1,12 @@
+{
+    "name": "ScoobyRoma3000",
+    "version": "1.0",
+    "authors": [
+        "ScoobyDude"
+    ],
+    "description": "Advanced greedy targeting bot with radar lock and predictive shooting. Uses optimal movement patterns to maximize hit chance.",
+    "homepage": "",
+    "countryCodes": ["id"],
+    "platform": ".Net 6.0",
+    "programmingLang": "C# 10.0"
+}
