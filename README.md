@@ -80,7 +80,7 @@ Tubes1_ScoobyDude/
    ```
    git clone https://github.com/danenftyessir/Tubes1_ScoobyDude.git
    ```
-2. Download game engine yang dimodifikasi asisten dari [tubes1-if2211-starter-pack](https://github.com/Ariel-HS/tubes1-if2211-starter-pack)
+2. Download game engine yang dimodifikasi asisten dari [tubes1-if2211-starter-pack](https://github.com/Ariel-HS/tubes1-if2211-starter-pack/releases/tag/v1.0)
 
 ## Cara Menjalankan Permainan Robocode
 1. Buka terminal/command prompt dan jalankan command berikut:
