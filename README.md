@@ -1,4 +1,4 @@
-# Tugas Besar 1 IF2211 Strategi Algoritma - Robocode Tank Royale
+# Tugas Besar 1 IF2211 Strategi Algoritma
 
 ## Kelompok ScoobyDude
 | NIM | Nama |
