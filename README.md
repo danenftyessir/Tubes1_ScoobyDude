@@ -1,6 +1,6 @@
 # Tugas Besar 1 IF2211 Strategi Algoritma
 
-## Kelompok ScoobyDude
+## Kelompok 38 - ScoobyDude
 | NIM | Nama |
 |-----|------|
 | 13523136 | Danendra Shafi Athallah |
